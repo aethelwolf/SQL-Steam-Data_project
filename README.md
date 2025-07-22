@@ -52,7 +52,7 @@ The project follows a structured data analytics approach:
 ## Files
 - `docs/`: Contains project documentation.
 - `queries/`: SQL scripts for data analysis.
-- `tableau_viz/`: Placeholder for Tableau dashboard preview (image not included but can be added).
+- `tableau_viz/`: [Raw Packaged Work Book](tableau_viz/Steam%20Store%20DashBoard.twbx)
 
 ## How to Contribute
 Feel free to fork this repository, submit issues, or propose enhancements. Contributions to improve data cleaning, analysis, or visualizations are welcome!
