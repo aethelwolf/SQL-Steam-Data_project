@@ -17,6 +17,7 @@ This repository contains a comprehensive data analysis project focused on the St
   - Tableau for advanced visualizations and recommendations
 
 ## Data Analysis Process
+[Big Query- Sql Queries for Analysis](queries/Steam_Store_Data_Analysis_Query.sql)
 The project follows a structured data analytics approach:
 1. **Ask**: Define the business task and key questions (e.g., popular genres, price vs. ownership, multiplayer vs. single-player trends).
 2. **Prepare**: Import Steam datasets into BigQuery.
