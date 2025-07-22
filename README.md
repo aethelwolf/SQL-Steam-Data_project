@@ -9,8 +9,8 @@ This repository contains a comprehensive data analysis project focused on the St
 - **Objective**: Analyze consumer trends on the Steam Store to improve marketing and increase sales.
 - **Stakeholders**: Gabe Logan (Founder), Valve Corporation Marketing Department, Valve Marketing Analytics Team, and global Steam users/gamers.
 - **Dataset Sources**:
-  - Uncleaned: Steam Store Raw Data
-  - Cleaned: Steam Store Games
+  - [Uncleaned: Steam Store Raw Data](https://www.kaggle.com/datasets/nikdavis/steam-store-raw)
+  - [Cleaned: Steam Store Games](https://www.kaggle.com/datasets/nikdavis/steam-store-games)
 - **Tools Used**:
   - SQL (BigQuery) for data import, cleaning, and analysis
   - Excel for quick visualizations and reference
