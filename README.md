@@ -49,6 +49,7 @@ The project follows a structured data analytics approach:
 - Launch campaigns in July, October, and November with holiday themes.
 - Support top games with DLCs to boost revenue.
 - Marketing efforts on Steam should prioritize Action, Indie, and Multiplayer titles, especially during seasonal peaks like July and October. See full insights below.
+- [Final Recommendations Explained](docs/Steam_Data_Analysis_Final_Thoughts.pdf)
 
 
 
