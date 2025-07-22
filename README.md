@@ -9,7 +9,6 @@ Dataset Sources:
 Uncleaned: Steam Store Raw Data
 Cleaned: Steam Store Games
 
-
 Tools Used:
 SQL (BigQuery) for data import, cleaning, and analysis
 Excel for quick visualizations and reference
@@ -25,6 +24,7 @@ Prepare: Import Steam datasets into BigQuery.
 Process: Clean data by fixing types, removing nulls/duplicates, and eliminating irrelevant columns.
 Analyze: Generate insights using SQL queries (e.g., genre popularity, release timing effects).
 Share: Create visualizations in Excel and Tableau to share findings (note: visualizations not included here but can be added).
+
 Act: Apply insights to recommend marketing strategies.
 
 Key Insights and Visuals
@@ -61,5 +61,9 @@ tableau_viz/: Placeholder for Tableau dashboard preview (image not included but 
 How to Contribute
 Feel free to fork this repository, submit issues, or propose enhancements. Contributions to improve data cleaning, analysis, or visualizations are welcome!
 License
+<<<<<<< HEAD
 
 
+=======
+[Add license information here if applicable]
+>>>>>>> 0b0c1a2d56a958f0b1449ddddb7ab7aaed87a9e0
