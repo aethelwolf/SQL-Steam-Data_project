@@ -60,6 +60,3 @@ The project follows a structured data analytics approach:
 
 ## How to Contribute
 Feel free to fork this repository, submit issues, or propose enhancements. Contributions to improve data cleaning, analysis, or visualizations are welcome!
-
-## License
-[Add license information here if applicable]
