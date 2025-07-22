@@ -51,7 +51,7 @@ The project follows a structured data analytics approach:
 
 ## Files
 - `docs/`: Contains project documentation.
-- `queries/`: SQL scripts for data analysis.
+- `queries/`: [Big Query SQL scripts used for data analysis](queries/Steam_Store_Data_Analysis_Query.sql)
 - `tableau_viz/`: [Raw Packaged Work Book](tableau_viz/Steam%20Store%20DashBoard.twbx)
 
 ## How to Contribute
