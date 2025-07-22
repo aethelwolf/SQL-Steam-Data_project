@@ -3,6 +3,8 @@
 ## Overview
 This repository contains a comprehensive data analysis project focused on the Steam Store, a leading global platform for video game producers to sell and market their games online, owned by Valve Corporation. The project utilizes raw and cleaned datasets from Steam Store and Steam Spy to uncover consumer trends and patterns, aiming to enhance marketing strategies and boost sales.
 
+## [Steam Data Analysis Log Report](docs/Steam Store Log Report_ 07_21_2025.pdf)
+
 ## Project Details
 - **Objective**: Analyze consumer trends on the Steam Store to improve marketing and increase sales.
 - **Stakeholders**: Gabe Logan (Founder), Valve Corporation Marketing Department, Valve Marketing Analytics Team, and global Steam users/gamers.
