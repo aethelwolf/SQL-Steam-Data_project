@@ -5,7 +5,9 @@ This repository contains a comprehensive data analysis project focused on the St
 
 #### [Steam Data Analysis Log Report](docs/Steam%20Store%20Log%20Report_%2007_21_2025.pdf) This includes a detailed log report of my start to finish process of the data analysis.
 
-!<iframe width="560" height="315" src="https://www.youtube.com/embed/d0VJXCp7rcg?si=kPy9sCLkTXIlLpAp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/d0VJXCp7rcg/maxresdefault.jpg)](https://youtu.be/d0VJXCp7rcg)
+
+### [Watch this video on YouTube](https://youtu.be/d0VJXCp7rcg)
 
 ## Project Details
 - **Objective**: Analyze consumer trends on the Steam Store to improve marketing and increase sales.
