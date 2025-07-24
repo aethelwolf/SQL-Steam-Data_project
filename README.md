@@ -7,8 +7,6 @@ This repository contains a comprehensive data analysis project focused on the St
 
 [![Watch the video](https://img.youtube.com/vi/d0VJXCp7rcg/maxresdefault.jpg)](https://youtu.be/d0VJXCp7rcg)
 
-### [Watch this video on YouTube](https://youtu.be/d0VJXCp7rcg)
-
 ## Project Details
 - **Objective**: Analyze consumer trends on the Steam Store to improve marketing and increase sales.
 - **Stakeholders**: Gabe Logan (Founder), Valve Corporation Marketing Department, Valve Marketing Analytics Team, and global Steam users/gamers.
