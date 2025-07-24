@@ -5,6 +5,7 @@ This repository contains a comprehensive data analysis project focused on the St
 
 #### [Steam Data Analysis Log Report](docs/Steam%20Store%20Log%20Report_%2007_21_2025.pdf) This includes a detailed log report of my start to finish process of the data analysis.
 
+
 ## Project Details
 - **Objective**: Analyze consumer trends on the Steam Store to improve marketing and increase sales.
 - **Stakeholders**: Gabe Logan (Founder), Valve Corporation Marketing Department, Valve Marketing Analytics Team, and global Steam users/gamers.
