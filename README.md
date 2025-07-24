@@ -4,7 +4,7 @@
 This repository contains a comprehensive data analysis project focused on the Steam Store, a leading global platform for video game producers to sell and market their games online, owned by Valve Corporation. The project utilizes raw and cleaned datasets from Steam Store and Steam Spy to uncover consumer trends and patterns, aiming to enhance marketing strategies and boost sales.
 
 #### [Steam Data Analysis Log Report](docs/Steam%20Store%20Log%20Report_%2007_21_2025.pdf) This includes a detailed log report of my start to finish process of the data analysis.
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d0VJXCp7rcg?si=3ewXoSWYMGnGBl0S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Project Details
 - **Objective**: Analyze consumer trends on the Steam Store to improve marketing and increase sales.
