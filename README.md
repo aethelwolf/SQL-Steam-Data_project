@@ -63,6 +63,7 @@ The project follows a structured data analytics approach:
 - `queries/`: [Big Query SQL scripts used for data analysis](queries/Steam_Store_Data_Analysis_Query.sql)
 - `tableau_viz/`: [Raw Packaged Work Book](tableau_viz/Steam%20Store%20DashBoard.twbx)
 - `steam_store_data_presentation_slides/`: [Google SLides- Steam Data Analysis slides presentation](Steam%20Store%20Data%20Analysis%20Presentation.pdf)
+- [Personal Website Portfolio](https://jasonjuarbe.carrd.co/)
 
 ## How to Contribute
 Feel free to fork this repository, submit issues, or propose enhancements. Contributions to improve data cleaning, analysis, or visualizations are welcome!
