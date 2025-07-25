@@ -5,7 +5,7 @@ This repository contains a comprehensive data analysis project focused on the St
 
 #### [Steam Store Log Report](docs/Steam_Store_Log_Report.pdf) This includes a detailed log report of my start to finish process of the data analysis.
 
-## Presentation of my Steam Store Data Analysis
+## Video Presentation of my Steam Store Data Analysis
 
 [![Watch the video](https://img.youtube.com/vi/d0VJXCp7rcg/maxresdefault.jpg)](https://youtu.be/d0VJXCp7rcg)
 
